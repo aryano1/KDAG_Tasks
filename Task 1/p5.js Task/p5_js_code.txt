@@ -1,0 +1,105 @@
+function setup() {
+  createCanvas(500, 500);
+}
+
+function draw() {
+  background(10,80,90);
+  
+  noStroke();
+  fill(150,90,40);
+  rect(100,300,280,20);
+  
+  noStroke();
+  fill(20,80,0,);
+  rect(100,200,20,90);
+  
+  noStroke();
+  fill(120,80,0,);
+  rect(140,150,20,140);
+  
+  noStroke();
+  fill(120,180,60,);
+  rect(180,190,20,100);
+  
+  noStroke();
+  fill(70,30,30,);
+  rect(220,120,20,170);
+  
+  noStroke();
+  fill(00,80,130,);
+  rect(260,240,20,50);
+  
+  noStroke();
+  fill(60,180,130,);
+  rect(300,160,20,130);
+  
+  noStroke();
+  fill(20,10,90,);
+  rect(340,70,20,220);
+  
+  noFill();
+  stroke(10,10,10);
+  strokeWeight(5);
+  circle(110,180,10);
+  
+  noFill();
+  stroke(10,10,10);
+  strokeWeight(5);
+  circle(150,130,10);
+  
+  noFill();
+  stroke(10,10,10);
+  strokeWeight(5);
+  circle(190,170,10);
+  
+  noFill();
+  stroke(10,10,10);
+  strokeWeight(5);
+  circle(230,80,10);
+  
+  noFill();
+  stroke(10,10,10);
+  strokeWeight(5);
+  circle(270,220,10);
+  
+  noFill();
+  stroke(10,10,10);
+  strokeWeight(5);
+  circle(310,120,10);
+  
+  noFill();
+  stroke(10,10,10);
+  strokeWeight(5);
+  circle(350,40,10);
+  
+  fill(10,10,10);
+  line(80,180,110,180);
+  
+    fill(10,10,10);
+  line(110,180,150,130);
+  
+  fill(10,10,10);
+  line(150,130,190,170);
+  
+  fill(10,10,10);
+  line(190,170,230,80);
+  
+  
+  fill(10,10,10);
+  line(230,80,270,220);
+  
+  
+  fill(10,10,10);
+  line(270,220,310,120);
+  
+  fill(10,10,10);
+  line(310,120,350,40);
+  
+  fill(10,10,10);
+  line(350,40,390,70);
+  
+  
+  
+  
+  
+}
